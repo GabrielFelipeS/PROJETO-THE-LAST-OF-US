@@ -8,6 +8,7 @@ Com um carrosel interativo para trocar a imagem de fundo
 ![image](https://github.com/GabrielFelipeS/PROJETO-THE-LAST-OF-US/assets/108304564/e73de6a5-0a18-4687-a4b8-016610f8e18d)
 ![image](https://github.com/GabrielFelipeS/PROJETO-THE-LAST-OF-US/assets/108304564/34c2a4fc-9c23-4937-90ab-387c7a0c98cc)
 
+Link pro github.io: https://gabrielfelipes.github.io/PROJETO-THE-LAST-OF-US/
 
 Abaixo o código javaScript explicada para cada parte:
 
